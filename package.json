@@ -1,0 +1,15 @@
+{
+  "name": "screenlog",
+  "version": "0.3.0",
+  "description": "Bring console.log on the screen",
+  "main": "screenlog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
